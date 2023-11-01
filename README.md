@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sandeep</h1>
-<h3 align="center">A passionate java software engineer from US</h3>
+<h3 align="left">A passionate java software engineer from US</h3>
 
-- 💬 Ask me about **spring boot reactjs java**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codingwithsandeepb&label=Profile%20views&color=0e75b6&style=flat" alt="codingwithsandeepb" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingwithsandeepb" alt="codingwithsandeepb" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://codingwithsandeepb.github.io/](https://codingwithsandeepb.github.io/)
+
+- 💬 Ask me about **spring boot, reactjs, fullstack development, microservices, functional programming using java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
