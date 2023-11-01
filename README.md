@@ -9,9 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://codingwithsandeepb.github.io/](https://codingwithsandeepb.github.io/)
 
-- 💬 Ask me about **spring boot, reactjs, fullstack development, microservices, functional programming using java**
+- 💬 Ask me about **spring boot, reactjs, fullstack development, microservices, functional programming using java, AWS cloud concepts like API Gateway, RDS, EC2, ECR, EBS, S3**
 
-- 🔭 In my free time I explore some code, learn and build my personal projects.
+- 🔭 In my free time I love to explore some code, learn and build my own personal projects.
+
+- I am a certified AWS cloud certified practitioner!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
