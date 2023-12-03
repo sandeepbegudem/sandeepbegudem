@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sandeep</h1>
 <h3 align="left">A passionate java software engineer from United States</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codingwithsandeepb&label=Profile%20views&color=0e75b6&style=flat" alt="codingwithsandeepb" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepbegudem&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepbegudem" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingwithsandeepb" alt="codingwithsandeepb" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepbegudem" alt="sandeepbegudem" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://codingwithsandeepb.github.io/](https://codingwithsandeepb.github.io/)
+- 👨‍💻 All of my projects are available at [https://sandeepbegudem.github.io/](https://sandeepbegudem.github.io/)
 
 - 💬 Ask me about **spring boot, reactjs, fullstack development, microservices, functional programming using java, AWS cloud concepts like API Gateway, RDS, EC2, ECR, EBS, S3.**
 
