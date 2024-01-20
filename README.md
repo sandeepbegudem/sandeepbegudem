@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sandeepbegudem.github.io/](https://sandeepbegudem.github.io/)
 
-- 💬 Ask me about **spring boot, reactjs, fullstack development, microservices, functional programming using java, AWS cloud concepts like API Gateway, RDS, EC2, ECR, EBS, S3.**
+- 💬 Ask me about **Spring Boot, Fullstack Development, Microservices, Functional Programming using Java8, Lambdas, Java8 Stream APIs, Reactjs,AWS cloud concepts like API Gateway, RDS, EC2, ECR, EBS, S3.**
 
 - 🔭 In my free time I love to explore some code, learn and build my own personal projects.
 
