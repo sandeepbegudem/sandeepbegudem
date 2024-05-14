@@ -7,13 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 Checkout my portfolio using the link 👉 [https://sandeepbegudem.github.io/](https://sandeepbegudem.github.io/)
+- **👨‍💻 Checkout my portfolio using the link 👉 [https://sandeepbegudem.github.io/](https://sandeepbegudem.github.io/)**
 
-- 💬 Ask me about **Spring Boot, Fullstack Development, Microservices, Functional Programming using Java8, Lambdas, Java8 Stream APIs, Reactjs,AWS cloud concepts like API Gateway, RDS, EC2, ECR, EBS, S3.**
+- **💬 Ask me about Spring Boot, Fullstack Development, Microservices, Java8 Functional Interfaces, Lambdas, Stream APIs, Reactjs and AWS cloud concepts like API Gateway, RDS, EC2, ECR, EBS, S3.**
 
-- 🔭 In my free time I love to explore some code, learn and build my own personal projects.
+- 🔭 **In my free time I love to explore some code, learn, play tennis and build my own personal projects.**
 
-- 🎯 I am a certified AWS cloud certified practitioner 🎉
+- 🎯 **I am a certified AWS cloud certified practitioner**
+
+- 📝 **Currently I am focussing on AWS Solutions Architect Professional Certification**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
