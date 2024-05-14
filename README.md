@@ -11,11 +11,11 @@
 
 - **💬 Ask me about Spring Boot, Fullstack Development, Microservices, Java8 Functional Interfaces, Lambdas, Stream APIs, Reactjs and AWS cloud concepts like API Gateway, RDS, EC2, ECR, EBS, S3.**
 
-- 🔭 **In my free time I love to explore some code, learn, play tennis and build my own personal projects.**
+- 🔭 **In my free time I follow technology trends and love to build my personal projects that enhances my technical skills. When I am away from computer I love to play tennis🎾 and go out for hiking and enjoy the nature.**
 
-- 🎯 **I am a certified AWS cloud certified practitioner**
+- 🎯 **I am a certified AWS cloud certified practitioner.**
 
-- 📝 **Currently I am focussing on AWS Solutions Architect Professional Certification**
+- 📝 **Currently I am focussing on AWS Solutions Architect Professional Certification.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
