@@ -9,7 +9,7 @@
 
 - **👨‍💻 Checkout my portfolio using the link 👉 [https://sandeepbegudem.github.io/](https://sandeepbegudem.github.io/)**
 
-- **💬 Ask me about Spring Boot, Fullstack Development, Microservices, Java8 Functional Interfaces, Lambdas, Stream APIs, Reactjs and AWS cloud concepts like API Gateway, RDS, EC2, ECR, EBS, S3.**
+- **💬 Ask me about Spring Boot, Fullstack Development using Angular Typescript, HTML, CSS, Bootstrap, Microservices, Spring Cloud, Spring Framework, Java8 Functional Interfaces, Lambdas, Stream APIs, Reactjs and AWS cloud concepts like EKS, ECS, ECR, Fargate, IAM, API Gateway, RDS, EC2, EBS, S3. Github, Gitlab, CI/CD, Docker, OpenShift, Kubernetes, RDBMS/NoSQL Databases such as PostGreSQL, MySQL, Oracle, SQL Server, MongoDB, Cassandra. Agile Scrum, Kanban and WaterFall.**
 
 - 🔭 **In my free time I follow technology trends and love to build my personal projects that enhances my technical skills. When I am away from computer I love to play tennis🎾 and go out for hiking and enjoy the nature.**
 
