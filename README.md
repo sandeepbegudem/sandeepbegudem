@@ -13,7 +13,7 @@
 
 - 🔭 **In my free time I follow technology trends and love to build my personal projects that enhances my technical skills. When I am away from computer I love to play tennis🎾 and go out for hiking and enjoy the nature.**
 
-- 🎯 **I am a certified AWS cloud certified practitioner.**
+- 🎯 **I am a certified AWS cloud practitioner (AWS CCP).**
 
 - 📝 **Currently I am focussing on AWS Solutions Architect Professional Certification.**
 
