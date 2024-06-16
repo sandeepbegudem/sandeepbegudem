@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepbegudem&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepbegudem" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepbegudem&no-frame=true&theme=juicyfresh&no-frame=true&title=Commits,PullRequest,Repositories,Stars,Followers" alt="sandeepbegudem" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepbegudem&no-frame=true&theme=juicyfresh&no-frame=true&title=Commits,PullRequest,Repositories,Stars,Followers" alt="sandeepbegudem" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -14,8 +14,6 @@
 - 🔭 **In my free time I follow technology trends and love to build my personal projects that enhances my technical skills. When I am away from computer I love to play tennis🎾 and go out for hiking and enjoy the nature.**
 
 - 🎯 **I am a certified AWS cloud practitioner (AWS CCP).**
-
-- 📝 **Currently I am focussing on AWS Solutions Architect Professional Certification.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
